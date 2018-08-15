@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - 'Rock '
   layers:
   - Default
   - TransparentFX
@@ -38,6 +39,12 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Background
+    uniqueID: 1212536217
+    locked: 0
+  - name: Battlefield
+    uniqueID: 3967496821
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
